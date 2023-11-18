@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,500&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,500&family=Nunito&family=Poppins&display=swap');
+.logo{
+    height: 120px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.my-body{
+    height: auto;
+    background-image: url('https://res.cloudinary.com/nihars3/image/upload/v1696232927/photo-1619429858348-2d5ad1547e6c_nnvynb.jpg');
+}
+.item-nav{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+.nav-item{
+    padding: 20px;
+}
+.item-nav:hover{
+    color: aqua;
+}
+.anchor{
+    margin-left: auto;
+}
+.my-pic{
+    height: 400px;
+}
+.home-left{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-align: right;
+}
+.home-right{
+    color: white; 
+    padding-top: 20px;
+}
+.home-body{
+    height: 80vh;
+    padding-top: 10px;
+}
+.what-h1{
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif; 
+}
+.what-p1{
+    color: white;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.about-h1{
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif; 
+}
+.about-p{
+    color: white;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.what-we-do{
+    padding-top: 80px;
+}
+.ser-h1{
+    padding-top: 80px;
+    text-align: center;
+    color: white;
+    font-family: 'Montserrat', sans-serif; 
+    padding-bottom: 50px;
+}
+.card{
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+    padding: 20px;
+}
+.card:hover{
+    border-color: aqua;
+}
+.card-h1{
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    padding-top: 30px; 
+}
+.card-p1{
+    text-align: center;
+    font-size: 20px;
+}
+.card-p2{
+    text-align: center;
+    font-size: 20px;
+}
+.me{
+    padding: 30px;
+}
+.contact-us{
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif; 
+    padding-top: 30px;
+}
+.us-p1{
+    font-size: 25px;
+    padding-top: 25px;
+}
+.workshop{
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif; 
+    padding-top: 30px;
+}
+.work-p1{
+    font-size: 25px;
+}
+.sol-pic{
+    text-align: center;
+    padding-top: 30px;
+}
+.img{
+    height: 90px;
+    padding: 10px;
+}
+.courses .col-6.me {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.courses .col-6.me:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px transparent;
+}
